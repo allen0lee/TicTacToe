@@ -24,7 +24,7 @@ h1 {
 
 body {
   background: linear-gradient(253deg, #0cc898, #1797d2, #864fe1);
-  background-size: 300% 300%;
+  background-size: 500% 500%;
   -webkit-animation: Background 15s ease infinite;
   -moz-animation: Background 15s ease infinite;
   animation: Background 15s ease infinite;
@@ -34,7 +34,7 @@ body {
     background-position: 0% 50%
   }
   50% {
-    background-position: 100% 0%
+    background-position: 100% 50%
   }
   100% {
     background-position: 0% 50%
@@ -46,7 +46,7 @@ body {
     background-position: 0% 50%
   }
   50% {
-    background-position: 100% 0%
+    background-position: 100% 50%
   }
   100% {
     background-position: 0% 50%
@@ -58,7 +58,7 @@ body {
     background-position: 0% 50%
   }
   50% {
-    background-position: 100% 0%
+    background-position: 100% 50%
   }
   100% {
     background-position: 0% 50%
